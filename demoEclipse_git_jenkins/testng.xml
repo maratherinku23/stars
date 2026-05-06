@@ -6,7 +6,7 @@
 
     <test name="Login Test">
         <classes>
-            <class name="demo.Login_Page"/>
+            <class name="demo.loginpage"/>
         </classes>
     </test>
 
