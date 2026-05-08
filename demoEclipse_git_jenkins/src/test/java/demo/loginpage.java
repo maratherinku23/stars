@@ -22,7 +22,7 @@ public class loginpage {
 
   
     WebElement password = driver.findElement(By.name("password"));
-    password.sendKeys("rinku12345678");
+    password.sendKeys("sjhdfuwerfherhf");
 	
     WebElement loginBtn = driver.findElement(By.xpath("//button[text()='Login']"));
     loginBtn.click();
